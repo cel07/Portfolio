@@ -1,1 +1,6 @@
-
+beautifulsoup4
+nbformat
+pandas
+plotly
+requests
+yfinance
