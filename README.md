@@ -17,7 +17,7 @@ Welcome to my portfolio! This repository contains a collection of my data analyt
 ### 3. **Synthetic Dataset Clustering**
    - **Tools Used**: Python (Scikit-learn, Matplotlib), Jupyter Notebook
    - **Description**: Applied K-Means clustering to synthetic datasets (e.g., blobs, moons) to analyze how different configurations impact clustering performance. This project highlights my ability to implement and evaluate clustering algorithms.
-   - **[View Project](./synthetic-dataset-clustering)**
+   - **[View Project](./synthetic_clustering_project/synthetic_clustering_analysis.ipynb)**
 
 ## Skills Demonstrated
 - **Programming Languages**: Python, SQL, R
