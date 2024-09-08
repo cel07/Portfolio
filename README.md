@@ -7,7 +7,7 @@ Welcome to my portfolio! This repository contains a collection of my data analyt
 ### 1. **NYC Department of Environmental Protection Workforce Dashboards**
    - **Tools Used**: Power BI, Python, Excel
    - **Description**: Created and maintained workforce dashboards for the HR department, offering insights into gender, ethnicity, pay classes, and retirement statuses. These dashboards were presented quarterly to assist senior management in making data-driven decisions.
-   - **[View PDF of Dashboards](./NYC_DEP_Workforce_Analytics.pdf)**
+   - **[View PDF of Dashboards](./HR_performance_dashboard/NYC_DEP_Workforce_Analytics.pdf)**
 
 ### 2. **Concrete Strength Prediction**
    - **Tools Used**: Python (Pandas, Scikit-learn), Jupyter Notebook
