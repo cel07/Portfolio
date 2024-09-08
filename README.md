@@ -12,7 +12,7 @@ Welcome to my portfolio! This repository contains a collection of my data analyt
 ### 2. **Concrete Strength Prediction**
    - **Tools Used**: Python (Pandas, Scikit-learn), Jupyter Notebook
    - **Description**: Developed a machine learning model to predict the compressive strength of concrete using a dataset of material compositions. This project demonstrates my skills in data preprocessing, feature engineering, and regression modeling.
-   - **[View Project](./concrete-strength-prediction)**
+   - **[View Project](./concrete_project/concrete_compressive_strength_prediction.ipynbconcrete_project/concrete_compressive_strength_prediction.ipynb)**
 
 ### 3. **Synthetic Dataset Clustering**
    - **Tools Used**: Python (Scikit-learn, Matplotlib), Jupyter Notebook
