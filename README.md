@@ -14,14 +14,19 @@ Welcome to my portfolio! This repository contains a collection of my data analyt
    - **Description**: Developed a machine learning model to predict the compressive strength of concrete using a dataset of material compositions. This project demonstrates my skills in data preprocessing, feature engineering, and regression modeling.
    - **[View Project](./concrete_project/concrete_compressive_strength_prediction.ipynb)**
 
-### 3. **Synthetic Dataset Clustering**
+### 3. **Voting Pattern Analysis**
+   - **Tools Used**: Python (Pandas, Scikit-learn, Matplotlib, Seaborn), Jupyter Notebook
+   - **Description**: Analyzed the voting patterns of U.S. legislators using clustering techniques such as K-Means and hierarchical clustering. This project provides insights into how legislators from different districts vote on key bills, visualizing the results through heatmaps, t-SNE plots, and dendrograms.
+   - **[View Project](./voting_analysis_project/voting_analysis.ipynb)**
+
+### 4. **Synthetic Dataset Clustering**
    - **Tools Used**: Python (Scikit-learn, Matplotlib), Jupyter Notebook
    - **Description**: Applied K-Means clustering to synthetic datasets (e.g., blobs, moons) to analyze how different configurations impact clustering performance. This project highlights my ability to implement and evaluate clustering algorithms.
    - **[View Project](./synthetic_clustering_project/synthetic_clustering_analysis.ipynb)**
 
 ## Skills Demonstrated
 - **Programming Languages**: Python, SQL, R
-- **Data Visualization**: Power BI, Tableau, Matplotlib
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn
 - **Machine Learning**: Regression, Clustering
 - **Data Processing**: ETL, Data Cleaning, Statistical Analysis
 
