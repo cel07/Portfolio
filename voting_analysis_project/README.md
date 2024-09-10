@@ -70,5 +70,5 @@ The project includes the following visualizations:
 ## How to Run the Project
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/voting-pattern-analysis.git
+   git clone https://github.com/cel07/voting-pattern-analysis.git
 
