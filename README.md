@@ -7,7 +7,7 @@ Welcome to my portfolio! This repository contains a collection of my data analyt
 ### 1. **Flight Delay Time Statistics Dashboard (Matplotlib Version)**
    - **Tools Used**: Python, Pandas, Matplotlib, Jupyter Notebook
    - **Description**: This project provides a dashboard for analyzing flight delay times by month for a specified year. Utilizing Matplotlib for static visualization, it allows the examination of multiple delay types, including carrier, weather, NAS, security, and late aircraft delays. The dataset is sourced from IBM's Skills Network, and the notebook enables users to filter and visualize delay trends over time.
-   - **[View Project](./flight_delay_analysis_matplotlib.ipynb)**
+   - **[View Project](./Flight_Delay_Time_Statistics_Dashboard/flight_delay_analysis.ipynb)**
 
 ### 2. **NYC Department of Environmental Protection Workforce Dashboards**
    - **Tools Used**: Power BI, Python, Excel
