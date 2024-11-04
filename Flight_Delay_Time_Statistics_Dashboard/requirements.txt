@@ -1,3 +1,2 @@
 pandas
-dash
-plotly
+matplotlib
