@@ -24,14 +24,32 @@ Welcome to my portfolio! This repository contains a collection of my data analyt
    - **Description**: Analyzed the voting patterns of U.S. legislators using clustering techniques such as K-Means and hierarchical clustering. This project provides insights into how legislators from different districts vote on key bills, visualizing the results through heatmaps, t-SNE plots, and dendrograms.
    - **[View Project](./voting_analysis_project/voting_analysis.ipynb)**
 
-### 5. **Synthetic Dataset Clustering**
-   - **Tools Used**: Python (Scikit-learn, Matplotlib), Jupyter Notebook
-   - **Description**: Applied K-Means clustering to synthetic datasets (e.g., blobs, moons) to analyze how different configurations impact clustering performance. This project highlights my ability to implement and evaluate clustering algorithms.
-   - **[View Project](./synthetic_clustering_project/synthetic_clustering_analysis.ipynb)**
+### 5. **Kaggle Survey 2023 Dashboard (Google Looker Studio)**
+   - **Tools Used**: Google Looker Studio
+   - **Description**: Created a comprehensive dashboard using the 2023 Kaggle survey data, analyzing current technology usage, future technology trends, and respondent demographics. This dashboard provides insights into both the current and future technology preferences among survey respondents, along with demographic breakdowns.
+
+#### Dashboard Components
+   **A. Current Technology Usage Tab**
+   - **Top 10 Languages**: Visualization of the top 10 programming languages respondents have worked with (`LanguageHaveWorkedWith`).
+   - **Top 10 Databases**: Visualization of the top 10 databases respondents have worked with (`DatabaseHaveWorkedWith`).
+   - **Platforms**: Visualization of the different platforms respondents have worked with (`PlatformHaveWorkedWith`).
+   - **Top 10 Web Frameworks**: Visualization of the top 10 web frameworks respondents have worked with (`WebframeHaveWorkedWith`).
+
+   **B. Future Technology Trends Tab**
+   - **Top 10 Languages Desired for the Next Year**: Visualization of the top 10 programming languages respondents desire to learn next year (`LanguageWantToWorkWith`).
+   - **Top 10 Databases Desired for the Next Year**: Visualization of the top 10 databases respondents desire to learn next year (`DatabaseWantToWorkWith`).
+   - **Desired Platforms for the Next Year**: Visualization of the platforms respondents desire to work with next year (`PlatformWantToWorkWith`).
+   - **Top 10 Web Frameworks Desired for the Next Year**: Visualization of the top 10 web frameworks respondents desire to learn next year (`WebframeWantToWorkWith`).
+
+   **C. Demographics Tab**
+   - **Respondent Classified by Work Experience**: Visualization of the number of respondents classified by work experience (`WorkExp`).
+   - **Respondent Count for Countries**: Visualization of the number of respondents from different countries (`Country`).
+   - **Respondent Count by Age**: Visualization of the number of respondents in different age groups (`Age`).
+   - **Respondent Count by Gender and Classified by Education Level**: Visualization of respondents classified by gender (`Gender`) and further categorized by their education level (`EdLevel`).
 
 ## Skills Demonstrated
 - **Programming Languages**: Python, SQL, R
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Google Looker Studio
 - **Machine Learning**: Regression, Clustering
 - **Data Processing**: ETL, Data Cleaning, Statistical Analysis
 
