@@ -27,7 +27,7 @@ Welcome to my portfolio! This repository contains a collection of my data analyt
 ### 5. **Kaggle Survey 2023 Dashboard (Google Looker Studio)**
    - **Tools Used**: Google Looker Studio
    - **Description**: Created a comprehensive dashboard using the 2023 Kaggle survey data, analyzing current technology usage, future technology trends, and respondent demographics. This project demonstrates my proficiency in data visualization and analysis using Google Looker Studio.
-   - **[View Project Details](./Kaggle_Survey_2023_Dashboard/README.md)**
+   - **[View Project Details](./Kaggle_Survey_2023/kaggle_dashboards_2023.pdf)**
 
 ## Skills Demonstrated
 - **Programming Languages**: Python, SQL, R
