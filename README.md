@@ -24,7 +24,7 @@ This repository showcases a collection of my **data analytics and data science p
   - Investigated relationships between keywords, multimedia usage, sentiment, publication timing, and share counts.  
   - Delivered as a polished Quarto report optimized for readability and insight.  
 - **Live Report**: https://clegarda.quarto.pub/online-news-popularity/  
-- **Project Folder**: `./Online_News_Popularity/`
+- **Project Folder**: [Online News Popularity Project](./Online_News_Popularity/)
 
 ---
 
@@ -34,8 +34,7 @@ This repository showcases a collection of my **data analytics and data science p
 - **Description**: Analyzed **1.3M synthetic credit-card transactions** to explore customer spending behavior, detect anomalies, and surface risk insights.  
   - Built features such as **age bands, Haversine distance, recurring spend flags, outlier thresholds**, and more.  
   - Conducted EDA on **monthly/quarterly patterns, category spend distribution, recurring share, anomalies, and demographics**.  
-  - Future work includes expanding to **fraud detection modeling and vendor consolidation analysis**.  
-- **Project Folder**: `./credit-card-transactions-analysis/`
+- **Project Folder**: [Credit Card Transactions Analysis](./credit-card-transactions-analysis/)
 
 ---
 
@@ -43,14 +42,15 @@ This repository showcases a collection of my **data analytics and data science p
 
 - **Tools Used**: Python, Pandas, Matplotlib  
 - **Description**: Developed a dashboard analyzing flight delay times by month, with detailed breakdowns by airline, weather, NAS, security, and late aircraft delays.  
-- **Project File**: `./Flight_Delay_Time_Statistics_Dashboard/flight_delay_analysis.ipynb`
+- **Project File**: [Flight Delay Dashboard](./Flight_Delay_Time_Statistics_Dashboard/flight_delay_analysis.ipynb)
 
 ---
 
 ### 5. **NYC Department of Environmental Protection Workforce Dashboards**
+
 - **Tools Used**: Power BI, Python, Excel  
 - **Description**: Designed and maintained HR workforce dashboards presented quarterly to senior management. Provided insights into **gender, ethnicity, pay classes, and retirement trends** supporting workforce planning and data-driven decision-making.  
-- **PDF Report**: `./HR_performance_dashboard/NYC_DEP_Workforce_Analytics.pdf`
+- **PDF Report**: [NYC DEP Workforce Analytics](./HR_performance_dashboard/NYC_DEP_Workforce_Analytics.pdf)
 
 ---
 
@@ -58,7 +58,7 @@ This repository showcases a collection of my **data analytics and data science p
 
 - **Tools Used**: Python (Pandas, Scikit-learn), Jupyter Notebook  
 - **Description**: Developed a regression model predicting concrete compressive strength based on material composition.  
-- **Project File**: `./concrete_project/concrete_compressive_strength_prediction.ipynb`
+- **Project File**: [Concrete Strength Prediction](./concrete_project/concrete_compressive_strength_prediction.ipynb)
 
 ---
 
@@ -66,7 +66,7 @@ This repository showcases a collection of my **data analytics and data science p
 
 - **Tools Used**: Python (Pandas, Scikit-learn, Matplotlib, Seaborn)  
 - **Description**: Clustered U.S. legislators using voting behavior, generating insights into political alignment and legislative similarity.  
-- **Project File**: `./voting_analysis_project/voting_analysis.ipynb`
+- **Project File**: [Voting Analysis](./voting_analysis_project/voting_analysis.ipynb)
 
 ---
 
@@ -74,7 +74,7 @@ This repository showcases a collection of my **data analytics and data science p
 
 - **Tools Used**: Google Looker Studio  
 - **Description**: Interactive dashboard analyzing the 2023 Kaggle survey, covering tech usage, trends, and respondent demographics.  
-- **PDF Summary**: `./Kaggle_Survey_2023/Kaggle_Dashboard_2023.pdf`
+- **PDF Summary**: [Kaggle Survey Dashboard](./Kaggle_Survey_2023/Kaggle_Dashboard_2023.pdf)
 
 ---
 
